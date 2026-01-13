@@ -8,7 +8,7 @@ static Scanner scn = new Scanner(System.in);
 	public static void main(String[] args) {
 		remove_tree m = new remove_tree();
 		BinaryTree bt = m.new BinaryTree();
-		bt.removeLeaves();
+		
 		bt.display();
 	}
 
@@ -82,15 +82,9 @@ static Scanner scn = new Scanner(System.in);
 			this.display(node.right);
 		}
 
-		public void removeLeaves() {
-			this.removeLeaves(null, this.root, false);
-		}
+		
 
-		private void removeLeaves(Node parent, Node child, boolean ilc) {
-			 if () {
-                
-             }
-		}
+		
 
 	}
 }
