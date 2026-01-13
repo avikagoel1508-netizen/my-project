@@ -1,5 +1,3 @@
-package leetcode;
-
 public class binary_reflection {
 public static void main(String[] args) {
     int[]arr={4,5,4};

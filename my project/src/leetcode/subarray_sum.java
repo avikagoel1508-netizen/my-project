@@ -1,4 +1,4 @@
-package leetcode;
+
 
 public class subarray_sum {
 public static void main(String[] args) {

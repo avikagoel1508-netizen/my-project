@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.HashMap;
 
 public class element_with_max_freq {

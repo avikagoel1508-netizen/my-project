@@ -1,4 +1,4 @@
-package leetcode;
+
 
 public class min_size_array {
 public static void main(String[] args) {

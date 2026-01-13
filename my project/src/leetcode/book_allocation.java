@@ -1,4 +1,4 @@
-package leetcode;
+
 
 public class book_allocation {
 public static void main(String[] args) {
